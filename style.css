@@ -1,6 +1,6 @@
 #body{
     background: linear-gradient(TO right, rgb(184, 85, 164) , rgb(40, 40, 87) , rgb(40, 40, 87)  ,rgb(184, 85, 164) );
-
+overflow: hidden;
 
 }
 .H3{
